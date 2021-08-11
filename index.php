@@ -10,6 +10,8 @@ body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
+
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -23,7 +25,7 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 7px;
   width: 100%;
   text-align: center;
 }
