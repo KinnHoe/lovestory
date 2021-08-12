@@ -11,6 +11,19 @@ body {
     width: 60%;
     transition: all 1s;
 }
+
+@media only screen and (max-width: 600px) {
+  #v0 {
+    position: fixed;
+    bottom: 25%;
+    left: 0;
+    width: 100%;
+    transition: all 1s;
+}
+}
+
+
+
 .hide {
   opacity:0;
   left:-100%;
